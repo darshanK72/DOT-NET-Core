@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "Xj571cAf9QRsrpvRYmQsYcjo6VpJxVunceV3QZ0bvZI=",
+  "Source": "RoutingWebApplication",
+  "BasePath": "_content/RoutingWebApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RoutingWebApplication\\wwwroot",
+      "Source": "RoutingWebApplication",
+      "ContentRoot": "C:\\Users\\dakhairn\\OneDrive - Capgemini\\Desktop\\Resources\\7. Practice Coding\\6. ASP.Net Core & MVC\\2. RoutingWebApplication\\RoutingWebApplication\\wwwroot\\",
+      "BasePath": "_content/RoutingWebApplication",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\dakhairn\\OneDrive - Capgemini\\Desktop\\Resources\\7. Practice Coding\\6. ASP.Net Core & MVC\\2. RoutingWebApplication\\RoutingWebApplication\\wwwroot\\TextFile.txt",
+      "SourceId": "RoutingWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dakhairn\\OneDrive - Capgemini\\Desktop\\Resources\\7. Practice Coding\\6. ASP.Net Core & MVC\\2. RoutingWebApplication\\RoutingWebApplication\\wwwroot\\",
+      "BasePath": "_content/RoutingWebApplication",
+      "RelativePath": "TextFile.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\TextFile.txt"
+    }
+  ]
+}

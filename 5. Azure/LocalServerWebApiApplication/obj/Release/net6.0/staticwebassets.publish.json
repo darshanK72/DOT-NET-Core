@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OOLigLqKpNH6LDPxUYZD+/kK0EBu1z2SMLbANKc7N54=",
+  "Source": "LocalServerWebApiApplication",
+  "BasePath": "_content/LocalServerWebApiApplication",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

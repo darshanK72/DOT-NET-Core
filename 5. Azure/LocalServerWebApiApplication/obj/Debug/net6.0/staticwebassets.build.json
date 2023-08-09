@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "N/xECvVyyhkBII0EmVFy2C1D6GKkCGQyX8+1obfpKCc=",
+  "Source": "LocalServerWebApiApplication",
+  "BasePath": "_content/LocalServerWebApiApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "B+Z6dHh7l8W7FV63ZtIagkiUgt9LEBz7c5Rk9nCEJ+M=",
+  "Source": "ControllerWebApplication",
+  "BasePath": "_content/ControllerWebApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ControllerWebApplication\\wwwroot",
+      "Source": "ControllerWebApplication",
+      "ContentRoot": "C:\\Users\\dakhairn\\OneDrive - Capgemini\\Desktop\\Resources\\7. Practice Coding\\6. ASP.Net Core & MVC\\3. ControllerWebApplication\\ControllerWebApplication\\wwwroot\\",
+      "BasePath": "_content/ControllerWebApplication",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\dakhairn\\OneDrive - Capgemini\\Desktop\\Resources\\7. Practice Coding\\6. ASP.Net Core & MVC\\3. ControllerWebApplication\\ControllerWebApplication\\wwwroot\\TextFile.txt",
+      "SourceId": "ControllerWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dakhairn\\OneDrive - Capgemini\\Desktop\\Resources\\7. Practice Coding\\6. ASP.Net Core & MVC\\3. ControllerWebApplication\\ControllerWebApplication\\wwwroot\\",
+      "BasePath": "_content/ControllerWebApplication",
+      "RelativePath": "TextFile.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\TextFile.txt"
+    }
+  ]
+}

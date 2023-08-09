@@ -1,0 +1,7 @@
+C:\.Net Core Azure\0. Practice Coding\11. Azure\FirstAzureWebApplication\obj\Release\net6.0\PubTmp\Out\FirstAzureWebApplication.exe
+C:\.Net Core Azure\0. Practice Coding\11. Azure\FirstAzureWebApplication\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\.Net Core Azure\0. Practice Coding\11. Azure\FirstAzureWebApplication\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\.Net Core Azure\0. Practice Coding\11. Azure\FirstAzureWebApplication\obj\Release\net6.0\PubTmp\Out\FirstAzureWebApplication.dll
+C:\.Net Core Azure\0. Practice Coding\11. Azure\FirstAzureWebApplication\obj\Release\net6.0\PubTmp\Out\FirstAzureWebApplication.deps.json
+C:\.Net Core Azure\0. Practice Coding\11. Azure\FirstAzureWebApplication\obj\Release\net6.0\PubTmp\Out\FirstAzureWebApplication.runtimeconfig.json
+C:\.Net Core Azure\0. Practice Coding\11. Azure\FirstAzureWebApplication\obj\Release\net6.0\PubTmp\Out\FirstAzureWebApplication.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "C6sz6/H2UGiwmtIZdbLs5gVn9ki/mtuIwlkboZZC7g8=",
+  "Source": "AzureSQLWebApplication",
+  "BasePath": "_content/AzureSQLWebApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
