@@ -1,4 +1,0 @@
-{
-    "appService.defaultWebAppToDeploy": "/subscriptions/5b647109-d546-4aa5-aeb5-c95d37cabccf/resourceGroups/rg-training/providers/Microsoft.Web/sites/angular46310114",
-    "appService.deploySubpath": "1. FirstAngularApplication\\dist\\first-angular-application"
-}
